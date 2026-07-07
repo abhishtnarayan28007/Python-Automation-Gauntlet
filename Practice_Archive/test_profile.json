@@ -1,0 +1,9 @@
+{
+    "client_name": "TechCorp Solutions",
+    "budget_usd": 4500,
+    "tech_stack": ["Python", "Flask"],
+    "project_leads": {
+        "technical": "Abhisht",
+        "operations": "Sarah Jones"
+    }
+}

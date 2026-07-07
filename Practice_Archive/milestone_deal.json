@@ -1,0 +1,10 @@
+{
+    "deal_id": "DEAL_2026_99",
+    "payout_inr": 30000,
+    "milestones": [
+        "Web Scraper Built",
+        "CSV Pipeline Fixed",
+        "Code Base Fully Optimized"
+    ],
+    "client_verified": true
+}

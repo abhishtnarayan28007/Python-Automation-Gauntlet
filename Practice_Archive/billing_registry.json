@@ -1,0 +1,23 @@
+{
+    "platform": "FreelanceNexus",
+    "dispute_log": [
+        {
+            "order_id": "ORD_991",
+            "client": "Moti Mahal Delux",
+            "metrics": {"base_fee": "12000", "tax_rate": 0.18},
+            "status": "completed"
+        },
+        {
+            "order_id": "ORD_992",
+            "client": "TechCorp India",
+            "metrics": {"base_fee": "25000", "tax_rate": 0.18},
+            "status": "pending"
+        },
+        {
+            "order_id": "ORD_993",
+            "client": "Alpha Logistics",
+            "metrics": {"base_fee": "18500", "tax_rate": 0.05},
+            "status": "completed"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "server_name": "Asia-East-Production",
+    "status": "CRITICAL",
+    "error_codes": [404, 500, 503],
+    "active_users": 1420
+}

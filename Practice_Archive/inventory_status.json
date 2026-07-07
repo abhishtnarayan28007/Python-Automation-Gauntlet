@@ -1,0 +1,8 @@
+{
+    "store_branch": "Hardoi-Central",
+    "last_inspected": "2026-06-25",
+    "exchange_rate_usd_to_inr": 83.5,
+    "critical_threshold": 15,
+    "discounts_active": true,
+    "items_to_restock": 3
+}
