@@ -1,0 +1,7 @@
+[
+    {"timestamp": "09:00", "is_up": true},
+    {"timestamp": "10:00", "is_up": true},
+    {"timestamp": "11:00", "is_up": false},
+    {"timestamp": "12:00", "is_up": true},
+    {"timestamp": "13:00", "is_up": false}
+]

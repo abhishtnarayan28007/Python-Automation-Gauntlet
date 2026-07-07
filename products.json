@@ -1,0 +1,26 @@
+[
+    {
+        "item_id": "PROD_101",
+        "price_usd": 12.0,
+        "price_inr": 1002.0,
+        "tax_amount_inr": 1182.36
+    },
+    {
+        "item_id": "PROD_102",
+        "price_usd": 45.5,
+        "price_inr": 3799.25,
+        "tax_amount_inr": 4483.11
+    },
+    {
+        "item_id": "PROD_103",
+        "price_usd": 120.0,
+        "price_inr": 10020.0,
+        "tax_amount_inr": 11823.6
+    },
+    {
+        "item_id": "PROD_104",
+        "price_usd": 8.75,
+        "price_inr": 730.62,
+        "tax_amount_inr": 862.13
+    }
+]

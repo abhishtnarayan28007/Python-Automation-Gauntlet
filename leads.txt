@@ -1,0 +1,6 @@
+john.doe@gmail.com
+contact@stanford.edu
+support@wikipedia.org
+abhisht@outlook.com
+info@mit.edu
+sales@amazon.com
