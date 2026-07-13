@@ -1,0 +1,6 @@
+SUMMARY
+###########
+Total upbeats detected : 3
+Total Evaluated Beats : 5
+Upbeat Percentage : 60.0
+###########
