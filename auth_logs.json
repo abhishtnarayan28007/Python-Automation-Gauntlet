@@ -1,0 +1,32 @@
+[
+  {
+    "correlation_id": "corr-tx-88391a",
+    "user_id": "usr_9021",
+    "auth_timestamp": "2026-07-27T08:15:30Z",
+    "auth_status": "SUCCESS"
+  },
+  {
+    "correlation_id": "corr-tx-88392b",
+    "user_id": "usr_3301",
+    "auth_timestamp": "2026-07-27T08:18:12Z",
+    "auth_status": "SUCCESS"
+  },
+  {
+    "correlation_id": "corr-tx-88393c",
+    "user_id": "usr_7741",
+    "auth_timestamp": "2026-07-27T08:22:00Z",
+    "auth_status": "FAILED"
+  },
+  {
+    "correlation_id": "corr-tx-88394d",
+    "user_id": "usr_1042",
+    "auth_timestamp": "2026-07-27T08:30:45Z",
+    "auth_status": "SUCCESS"
+  },
+  {
+    "correlation_id": "corr-tx-88395e",
+    "user_id": "usr_5590",
+    "auth_timestamp": "2026-07-27T08:45:10Z",
+    "auth_status": "SUCCESS"
+  }
+]

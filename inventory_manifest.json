@@ -1,0 +1,35 @@
+[
+  {
+    "sku_id": "SKU-9021",
+    "product_name": "Ergonomic Office Chair #99",
+    "unit_price": 249.99,
+    "quantity_in_stock": "15"
+  },
+  {
+    "sku_id": "SKU-4401",
+    "product_name": "Mechanical Keyboard Model-X7",
+    "unit_price": "89.50",
+    "quantity_in_stock": 42
+  },
+  {
+    "sku_id": "SKU-1082",
+    "product_name": "UltraWide Monitor 34 Inch v2",
+    "unit_price": 599.00
+  },
+  [
+    {"sku_id": "SKU-5520", "product_name": "USB-C Hub Hub4Port", "unit_price": 35.00, "quantity_in_stock": 100},
+    {"sku_id": "SKU-5521", "product_name": "HDMI Cable Pro3m", "unit_price": 12.50, "quantity_in_stock": 250}
+  ],
+  "CORRUPTED_ENTRY_LOG_OFFSET_0x8829F",
+  {
+    "sku_id": "SKU-7731",
+    "product_name": "Wireless Gaming Mouse v1",
+    "unit_price": "45.00",
+    "quantity_in_stock": "0"
+  },
+  {
+    "product_name": "Desk Mat XXL Edition",
+    "unit_price": 25.00,
+    "quantity_in_stock": 30
+  }
+]
