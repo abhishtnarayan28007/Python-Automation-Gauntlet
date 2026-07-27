@@ -1,0 +1,45 @@
+[
+    {
+        "order_id": "TXN_90812",
+        "client_name": "Acme Global",
+        "status": "Success",
+        "pricing_metrics": {
+            "base_currency": "USD",
+            "original_amount": 1200.0,
+            "local_tax_rate": 0.08
+        },
+        "system_reconciled": true
+    },
+    {
+        "order_id": "TXN_90813",
+        "client_name": "EuroCorp Ltd",
+        "status": "Success",
+        "pricing_metrics": {
+            "base_currency": "EUR",
+            "original_amount": 850.0,
+            "local_tax_rate": 0.12
+        },
+        "system_reconciled": true
+    },
+    {
+        "order_id": "TXN_90814",
+        "client_name": "Britannia Foods",
+        "status": "Dispute",
+        "pricing_metrics": {
+            "base_currency": "GBP",
+            "original_amount": 500.0,
+            "local_tax_rate": 0.05
+        }
+    },
+    {
+        "order_id": "TXN_90815",
+        "client_name": "Apex India",
+        "status": "Success",
+        "pricing_metrics": {
+            "base_currency": "USD",
+            "original_amount": 2500.0,
+            "local_tax_rate": 0.1
+        },
+        "system_reconciled": true
+    }
+]
