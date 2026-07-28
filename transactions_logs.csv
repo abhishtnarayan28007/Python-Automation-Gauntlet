@@ -1,0 +1,4 @@
+correlation_id,user_id,pay_amount,latency_period
+corr-tx-88391a,usr_9021,150.00,12.0
+corr-tx-88392b,usr_3301,49.99,8.0
+corr-tx-88394d,usr_1042,299.00,30.0
