@@ -1,0 +1,102 @@
+[
+  {
+    "user_id": "USR_88201",
+    "email": "alex.morgan@techcorp.io",
+    "subscription_history": [
+      {
+        "plan_id": "PLN_BASIC_01",
+        "tier_level": "Tier_1",
+        "months_active": 6,
+        "base_rate": 49.99,
+        "discount_coupon_code": "WELCOME10"
+      },
+      {
+        "plan_id": "PLN_PRO_02",
+        "tier_level": "Tier_2",
+        "months_active": 12,
+        "base_rate": 149.99,
+        "discount_coupon_code": "PRO50"
+      },
+      {
+        "plan_id": "PLN_ENT_03",
+        "tier_level": "Tier_3",
+        "months_active": 8,
+        "base_rate": 499.99,
+        "discount_coupon_code": "NO_COUPON"
+      }
+    ]
+  },
+  {
+    "user_id": "USR_41092",
+    "email": "sara.connor@cyberdyne.net",
+    "subscription_history": [
+      {
+        "plan_id": "PLN_BASIC_01",
+        "tier_level": "Tier_1",
+        "months_active": 3,
+        "base_rate": 49.99,
+        "discount_coupon_code": "NO_COUPON"
+      },
+      {
+        "plan_id": "PLN_PRO_01",
+        "tier_level": "Tier_2",
+        "months_active": 5,
+        "base_rate": 149.99,
+        "discount_coupon_code": "LOYALTY20"
+      }
+    ]
+  },
+  {
+    "user_id": "USR_99411",
+    "email": "bruce.wayne@waynent.com",
+    "subscription_history": [
+      {
+        "plan_id": "PLN_ENT_01",
+        "tier_level": "Tier_3",
+        "months_active": 24,
+        "base_rate": 899.99,
+        "discount_coupon_code": "VIP100"
+      },
+      {
+        "plan_id": "PLN_ENT_CUSTOM",
+        "tier_level": "Tier_3",
+        "months_active": 12,
+        "base_rate": 1250.00,
+        "discount_coupon_code": "NO_COUPON"
+      }
+    ]
+  },
+  {
+    "user_id": "USR_10584",
+    "email": "diana.prince@themyscira.org",
+    "subscription_history": [
+      {
+        "plan_id": "PLN_PRO_02",
+        "tier_level": "Tier_2",
+        "months_active": 10,
+        "base_rate": 199.99,
+        "discount_coupon_code": "PRO50"
+      },
+      {
+        "plan_id": "PLN_PRO_03",
+        "tier_level": "Tier_2",
+        "months_active": 14,
+        "base_rate": 199.99,
+        "discount_coupon_code": "LOYALTY20"
+      }
+    ]
+  },
+  {
+    "user_id": "USR_77309",
+    "email": "peter.parker@dailybugle.com",
+    "subscription_history": [
+      {
+        "plan_id": "PLN_BASIC_01",
+        "tier_level": "Tier_1",
+        "months_active": 2,
+        "base_rate": 29.99,
+        "discount_coupon_code": "WELCOME10"
+      }
+    ]
+  }
+]
