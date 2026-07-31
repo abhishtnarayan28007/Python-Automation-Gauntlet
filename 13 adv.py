@@ -1,3 +1,8 @@
+# ==============================================================================
+# PROBLEM 13: Dynamic API Payload Flattening
+# Core Concepts: Nested JSON parsing, 3-level hierarchy unrolling, CSV DictWriter.
+# Key Takeaway: Dicts inside lists need loops; Dicts directly inside Dicts DON'T!
+# ==============================================================================
 import json
 import csv
 flattened_rows = []
