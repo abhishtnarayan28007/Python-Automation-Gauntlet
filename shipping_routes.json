@@ -1,0 +1,81 @@
+{
+  "shipment_batch_id": "SHIP_2026_GLOBAL_99",
+  "logistics_provider": "Apex Maritime Solutions",
+  "containers": [
+    {
+      "container_id": "CONT_ALPHA_101",
+      "origin_port": "Port of Shanghai",
+      "destination_port": "Port of Rotterdam",
+      "packages": [
+        {
+          "package_id": "PKG_9901_A",
+          "weight_kg": 45.5,
+          "declared_value_usd": 1200.00,
+          "checkpoint_logs": [
+            {
+              "checkpoint_id": "CHK_SHANGHAI_OUT",
+              "timestamp": "2026-07-01T08:30:00Z",
+              "coordinate_metrics": {
+                "latitude": 31.2304,
+                "longitude": 121.4737,
+                "temp_celsius": 22.4,
+                "humidity_percent": 65
+              }
+            },
+            {
+              "checkpoint_id": "CHK_SUEZ_IN",
+              "timestamp": "2026-07-12T14:15:00Z",
+              "coordinate_metrics": {
+                "latitude": 29.9753,
+                "longitude": 32.5599,
+                "temp_celsius": 38.1,
+                "humidity_percent": 40
+              }
+            }
+          ]
+        },
+        {
+          "package_id": "PKG_9902_B",
+          "weight_kg": 12.0,
+          "declared_value_usd": 350.50,
+          "checkpoint_logs": [
+            {
+              "checkpoint_id": "CHK_SHANGHAI_OUT",
+              "timestamp": "2026-07-01T08:35:00Z",
+              "coordinate_metrics": {
+                "latitude": 31.2304,
+                "longitude": 121.4737,
+                "temp_celsius": 22.5,
+                "humidity_percent": 64
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "container_id": "CONT_BETA_202",
+      "origin_port": "Port of Singapore",
+      "destination_port": "Port of Hamburg",
+      "packages": [
+        {
+          "package_id": "PKG_8801_X",
+          "weight_kg": 120.8,
+          "declared_value_usd": 5400.00,
+          "checkpoint_logs": [
+            {
+              "checkpoint_id": "CHK_SINGAPORE_OUT",
+              "timestamp": "2026-07-05T10:00:00Z",
+              "coordinate_metrics": {
+                "latitude": 1.3521,
+                "longitude": 103.8198,
+                "temp_celsius": 30.2,
+                "humidity_percent": 82
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

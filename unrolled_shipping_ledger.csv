@@ -1,0 +1,5 @@
+shipment_batch_id,logistics_provider,container_id,origin_port,destination_port,package_id,weight_kg,declared_value_usd,checkpoint_id,timestamp,latitude,longitude,temp_celsius,humidity_percent
+SHIP_2026_GLOBAL_99,Apex Maritime Solutions,CONT_ALPHA_101,Port of Shanghai,Port of Rotterdam,PKG_9901_A,45.5,1200.0,CHK_SHANGHAI_OUT,2026-07-01T08:30:00Z,31.2304,121.4737,22.4,65
+SHIP_2026_GLOBAL_99,Apex Maritime Solutions,CONT_ALPHA_101,Port of Shanghai,Port of Rotterdam,PKG_9901_A,45.5,1200.0,CHK_SUEZ_IN,2026-07-12T14:15:00Z,29.9753,32.5599,38.1,40
+SHIP_2026_GLOBAL_99,Apex Maritime Solutions,CONT_ALPHA_101,Port of Shanghai,Port of Rotterdam,PKG_9902_B,12.0,350.5,CHK_SHANGHAI_OUT,2026-07-01T08:35:00Z,31.2304,121.4737,22.5,64
+SHIP_2026_GLOBAL_99,Apex Maritime Solutions,CONT_BETA_202,Port of Singapore,Port of Hamburg,PKG_8801_X,120.8,5400.0,CHK_SINGAPORE_OUT,2026-07-05T10:00:00Z,1.3521,103.8198,30.2,82
