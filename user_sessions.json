@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "USR_101",
+    "subscription_tier": "Premium",
+    "weekly_durations": [45, 60, 50, 55],
+    "support_tickets": 2
+  },
+  {
+    "user_id": "USR_102",
+    "weekly_durations": [10, 15],
+    "support_tickets": 0
+  },
+  {
+    "user_id": "USR_103",
+    "subscription_tier": "Free"
+  },
+  {
+    "user_id": "USR_104",
+    "subscription_tier": "Pro",
+    "weekly_durations": [120, 110, 130, 115, 125],
+    "support_tickets": 5
+  },
+  {
+    "user_id": "USR_105"
+  }
+]

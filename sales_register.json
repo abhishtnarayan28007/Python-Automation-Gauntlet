@@ -1,0 +1,32 @@
+[
+  {
+    "order_id": "ORD_1001",
+    "product_id": "PROD_01",
+    "quantity": 2,
+    "total_charged": 90.00
+  },
+  {
+    "order_id": "ORD_1002",
+    "product_id": "PROD_04",
+    "quantity": 1,
+    "total_charged": 150.00
+  },
+  {
+    "order_id": "ORD_1003",
+    "product_id": "PROD_03",
+    "quantity": 5,
+    "total_charged": 100.00
+  },
+  {
+    "order_id": "ORD_1004",
+    "product_id": "PROD_02",
+    "quantity": 2,
+    "total_charged": 140.00
+  },
+  {
+    "order_id": "ORD_1005",
+    "product_id": "PROD_01",
+    "quantity": 1,
+    "total_charged": 45.00
+  }
+]

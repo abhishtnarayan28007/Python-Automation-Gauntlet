@@ -1,0 +1,6 @@
+order_id,shipping_fee,carrier
+ORD_1001,5.50,FedEx
+ORD_1002,12.00,DHL
+ORD_1003,3.75,USPS
+ORD_1004,8.20,FedEx
+ORD_1005,0.00,LocalPickUp
