@@ -9,6 +9,6 @@ try:
         cat_url = data[0].get("url")
         print(f"🐱 Here is your Cat Image URL: {cat_url}")
 except requests.exceptions.HTTPError as err:
-    print(f"HTTP Error: {err}")
+    print(f"HTTP Error = {err}")
 except requests.exceptions.RequestException as err:
-    print(f"Connection Error: {err}")
+    print(f"Connection Error = {err}")
