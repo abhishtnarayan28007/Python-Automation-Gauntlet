@@ -1,0 +1,11 @@
+=====DAILY EXCHANGE REPORT====
+Base amount : $100.0
+----------------------------
+INR : 9576.0
+GBP : 73.77
+AUD : 141.33
+JPY : 15909.0
+CAD : 138.72
+EUR : 86.17
+================================
+REPORT GENERATED SUCCESSFULLY
