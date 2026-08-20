@@ -25,7 +25,6 @@ except requests.exceptions.RequestException as err:
 with open("filtered_posts.txt", "w") as file:
     for post in master_list:
         file.write(f"ID: {post['id']} | Title: {post['title']}\n")
-print(master_list)
 print(f"number of posts : {len(master_list)}")    
 for post in master_list:
     print("Title : ",post["title"])
