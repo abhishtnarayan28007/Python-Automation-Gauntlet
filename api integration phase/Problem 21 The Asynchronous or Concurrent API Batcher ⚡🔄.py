@@ -12,9 +12,9 @@ if not api_key:
 post_ids = [1,2,3,4,5]
 for id in post_ids:
     header = {"Authorization": f"Bearer {api_key}","Accept": "application/json"}
-    response = requests.get(f"https://jsonplaceholder.typicode.com/posts/{id}",
-                                headers=header,timeout=5)    
     try:
+        response = requests.get(f"https://jsonplaceholder.typicode.com/posts/{id}",
+                                        headers=header,timeout=5)    
         if response.status_code == 200:
             print(f"data for post_id {id} received successfully")
             id = response.json()["id"]
