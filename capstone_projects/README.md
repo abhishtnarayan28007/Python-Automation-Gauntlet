@@ -47,14 +47,12 @@ A high-performance asynchronous webhook processor built with **FastAPI** and **P
 * **HTTP Client**: Requests
 * **Logging**: Standard Python Logging (`FileHandler` + `StreamHandler`)
 
-## ⚙️ Setup & Installation
-
-### 1. Clone the Repository
+### 1. Download Project Files
 ```bash
-git clone (https://github.com/abhishtnarayan28007/deadpool-webhook-engine.git)
-cd deadpool-webhook-engine
+git clone (https://github.com/abhishtnarayan28007/Python-Automation-Gauntlet.git)
+cd Python-Automation-Gauntlet/capstone_projects
 ```
 
 
----
+## ⚙️ Setup & Installation
 
