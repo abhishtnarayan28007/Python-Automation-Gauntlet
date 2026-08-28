@@ -20,14 +20,7 @@ An automated Extraction, Transformation, and Loading (ETL) pipeline built with *
 * **Data Processing**: Standard JSON, File I/O, Custom Data Cleaners
 * **Logging & Telemetry**: Standard Python Logging (`FileHandler` + `StreamHandler`)
 
----
-
-## ⚙️ Setup & Execution
-
-### Run the ETL Pipeline
-```bash
-python capstone_projects/market_harvester.py
-```
+---------------------------------------------------------
 
 # ⚔️ Project 2 - Deadpool Real-Time Webhook Alert Engine
 
@@ -54,11 +47,14 @@ A high-performance asynchronous webhook processor built with **FastAPI** and **P
 * **HTTP Client**: Requests
 * **Logging**: Standard Python Logging (`FileHandler` + `StreamHandler`)
 
----
-
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the Repository
 ```bash
 git clone (https://github.com/abhishtnarayan28007/deadpool-webhook-engine.git)
 cd deadpool-webhook-engine
+```
+
+
+---
+
