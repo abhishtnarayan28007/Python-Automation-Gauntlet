@@ -1,3 +1,34 @@
+# 📊 Project 1: Market Harvester & Resilient ETL Pipeline
+
+An automated Extraction, Transformation, and Loading (ETL) pipeline built with **Python** to ingest raw market telemetry, sanitize noisy and corrupted datasets, handle missing values gracefully, and export structured operational reports.
+
+---
+
+## 🚀 Key Features
+
+* **Automated Data Extraction**: Parses raw market data feeds and structured JSON payloads dynamically.
+* **Resilient Data Transformation**: Cleans missing fields, handles data type mismatches, and filters corrupted records without halting pipeline execution.
+* **Dual Output Architecture**: Generates clean structured JSON datasets (`actionable_market_data.json`) alongside human-readable audit summaries (`harvest_summary.txt`).
+* **System Logging & Auditing**: Writes operational telemetry and pipeline activity directly to disk (`pipeline.log`) for tracking pipeline performance over time.
+* **Fault-Tolerant File I/O**: Safe handling of missing inputs or unexpected raw data formats using standard Python error handling.
+
+---
+
+## 🛠️ Tech Stack
+
+* **Language**: Python 3.10+
+* **Data Processing**: Standard JSON, File I/O, Custom Data Cleaners
+* **Logging & Telemetry**: Standard Python Logging (`FileHandler` + `StreamHandler`)
+
+---
+
+## ⚙️ Setup & Execution
+
+### Run the ETL Pipeline
+```bash
+python capstone_projects/market_harvester.py
+```
+
 # ⚔️ Project 2 - Deadpool Real-Time Webhook Alert Engine
 
 A high-performance asynchronous webhook processor built with **FastAPI** and **Pydantic**. This engine receives real-time event telemetry from external clients, validates payload schemas, logs system audits, and dispatches dynamic alerts to a custom Telegram channel.
