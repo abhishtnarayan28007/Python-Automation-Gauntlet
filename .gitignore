@@ -4,4 +4,7 @@ churn_features.csv
 reconciled_report.json
 *Problem 10*
 .env
+# Ignore log files
+*.log
+pipeline.log
 pipeline2.log
