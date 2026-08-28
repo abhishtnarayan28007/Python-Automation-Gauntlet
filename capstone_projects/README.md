@@ -49,10 +49,7 @@ A high-performance asynchronous webhook processor built with **FastAPI** and **P
 
 ### 1. Download Project Files
 ```bash
-git clone (https://github.com/abhishtnarayan28007/Python-Automation-Gauntlet.git)
+git clone https://github.com/abhishtnarayan28007/Python-Automation-Gauntlet.git
 cd Python-Automation-Gauntlet/capstone_projects
 ```
-
-
-## ⚙️ Setup & Installation
 
