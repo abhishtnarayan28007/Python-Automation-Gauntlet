@@ -27,4 +27,5 @@
 2026-08-22 18:48:43,472 - INFO - The average body length for each of the post is : 160.64
 2026-08-22 18:48:43,475 - INFO - successfully saved the processed data in a json file
 2026-08-22 18:48:43,476 - INFO - successfully generated the summary text file
-2026-08-22 18:48:43,477 - INFO - Market Harvester Pipeline completed successfully!
+2026-08-22 18:48:43,477 - INFO - Market Harvester Pipeline completed successfully!2026-09-16 18:46:39,288 - INFO - Starting Market Harvester Pipeline...
+2026-09-16 18:46:39,293 - INFO - API_TOKEN verified successfully. Proceeding to extraction...
